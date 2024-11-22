@@ -22,4 +22,6 @@ pip install tqdm
 
 The current dataset is generated using `1Var_RandSupport_FixedLength_-3to3_-5.0to-3.0-3.0to5.0_30Points/config.txt`
 
+## TODO:
 
+- [ ] switch to sympy. Use `simplify()` and `count_ops()` to generate concise terms within bound.
